@@ -1,0 +1,22 @@
+{
+  "wheel_id": 87,
+  "slug": "warwick4370-101",
+  "project": "local-businesses-warwick-comparison-w-101",
+  "parent_t1_ref": "warwick4370-001",
+  "node_role": "feeder",
+  "money_target": "warwick4370.com.au",
+  "primary_kw": "local businesses warwick comparison",
+  "intended_url": "https://local-businesses-warwick-comparison-w-101.ondigitalocean.app/",
+  "links": [
+    {
+      "target_url": "https://local-businesses-warwick-w-150.onrender.com/",
+      "anchor": "local businesses warwick",
+      "rel": "follow"
+    },
+    {
+      "target_url": "https://local-businesses-warwick-w-150.onrender.com/",
+      "anchor": "local businesses warwick",
+      "rel": "follow"
+    }
+  ]
+}
